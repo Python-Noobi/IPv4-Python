@@ -66,7 +66,7 @@ Project is: _in progress_ I put it here so anyone has a creative idea to add it 
 
 
 ## Contact
-Created by [@Python-Noobi] - [Linkedin] (linkedin.com/in/mohamed-hassan0009)feel free to contact me!
+Created by [@Python-Noobi] - [Linkedin] (https://www.linkedin.com/in/mohamed-hassan0009) feel free to contact me!
 
 
 <!-- Optional -->
