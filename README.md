@@ -32,8 +32,9 @@
 
 
 ## Setup
-The exe verison is already included.
-No dependancies.
+Thie file (ip4LabV02) is the PyQt5 file.
+This one (IP_LabV02_Functions (main)) is the main file.
+
 Below packages will be needed:
 -sys
 -PyQt5.QtWidgets import QDialog, QApplication
